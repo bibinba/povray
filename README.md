@@ -1,4 +1,2 @@
 # povray
-povrayで作ったやつをまとめていきたいです
-こっちはメイン！
-(https：//github.com/bibinba/povray/blob/画像置き場/SnapCrab_2017-6-26_14-53-2900.png "サンプル")
+画損保存用ブランチです！！！
